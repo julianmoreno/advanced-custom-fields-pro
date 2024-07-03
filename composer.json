@@ -1,0 +1,7 @@
+{
+    "name": "tu-usuario/advanced-custom-fields-pro",
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=5.6"
+    }
+  }
